@@ -8,17 +8,21 @@ Founder di **Micropedia** | Esperto di Intelligenza Artificiale | Software Devel
 
 ### 🔌 WordPress & Open Source
 Ho sviluppato il plugin **Micropedia AI Search Optimizer**, uno strumento per ottimizzare la ricerca interna e migliorare la visibilità dei contenuti tramite AI.
-*   [Micropedia AI Search Optimizer (WP.org)](https://wordpress.org/plugins/micropedia-ai-search-optimizer/)
+*   [Micropedia AI Search Optimizer (WP.org)](https://wordpress.org/plugins/micropedia-ai-search-optimizer)
 *   [Versione Pro](https://micropedia.it/micropedia-ai-search-optimizer-pro/)
 
 ### 🛠️ Competenze Tecniche
 *   **AI & Prompt Engineering**: Implementazione di modelli di linguaggio e automazione aziendale.
 *   **Sviluppo**: PHP, WordPress Plugin Development, Software su misura.
-*   **Consulenza**: Strategia digitale per dirigenti e management.
 
-### 🌐 Contatti
-*   💻 **Sito Aziendale**: [Micropedia.it](https://micropedia.it)
+### 🌐 Link & Social
+*   📖 **Biografia**: [marcoilardi.it/biografia](https://marcoilardi.it/biografia)
 *   🔗 **LinkedIn**: [Marco Ilardi](https://www.linkedin.com/in/marcoilardi/)
+*   🔵 **Facebook**: [Marco Ilardi](https://www.facebook.com/ilardimarco)
+*   📸 **Instagram**: [@marcoilardi](https://www.instagram.com/marco_ilardi/)
+*   🎥 **YouTube**: [@marcoilardi](https://www.youtube.com/@marcoilardi)
+*   🎵 **TikTok**: [@marcoilardi](https://www.tiktok.com/@marco.ilardi)
+*   💻 **Sito Aziendale**: [Micropedia.it](https://micropedia.it)
 
 ---
 
